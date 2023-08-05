@@ -5,7 +5,8 @@ Based on 2019 KTU Scheme
 
 ##### 1) [TCP (Reverse String)](/1.%20TCP%20(Reverse%20String))
 ## Usage
-![FTP](https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/d97ea128-0f77-4f3b-8860-fc0210e7eafd)
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/d97ea128-0f77-4f3b-8860-fc0210e7eafd)" width="400" height="200">
+
 
 
 ##### 2) [UDP (UpperCase)](/2.%20UDP%20(UpperCase))
