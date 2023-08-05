@@ -4,7 +4,7 @@ Based on 2019 KTU Scheme
 # Contents
 
 ##### 1) [TCP (Reverse String)](/1.%20TCP%20(Reverse%20String))
-##Usage
+## Usage
 ![FTP](https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/d97ea128-0f77-4f3b-8860-fc0210e7eafd)
 
 
