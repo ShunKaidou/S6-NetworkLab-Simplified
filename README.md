@@ -11,7 +11,7 @@ Based on 2019 KTU Scheme
 #### Usage
 <img src="https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/531d9901-ca2f-4490-b0b5-69b491b60b0c" width="300" height="115">
 
-### 3) Link State Routing
+### 3) Link State Routing<br>
 
 ### 4) [Concurrent Process (Server Time)](/4.%20Concurrent%20Process%20(Server%20Time))
 #### Usage
@@ -21,4 +21,4 @@ Based on 2019 KTU Scheme
 #### Usage
 <img src="https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/6aaf2431-1e32-40d1-98a1-89744014a1fc" width="300" height="130">
 
-##### 6) [Leaky Bucket](/6.%20Leaky%20Bucket)
+### 6) [Leaky Bucket](/6.%20Leaky%20Bucket)
