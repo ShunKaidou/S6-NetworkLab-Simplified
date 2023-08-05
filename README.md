@@ -7,10 +7,10 @@ Based on 2019 KTU Scheme
 
 ##### 2) [UDP (UpperCase)](/2.%20UDP%20(UpperCase))
 
-##### 3) [Link State Routing]
+##### 3) Link State Routing
 
-##### 4) [Inheritance](/4.%20Inheritance/InheritanceDemo.java)
+##### 4) [Concurrent Process (Server Time)](/4.%20Concurrent%20Process%20(Server%20Time))
 
-##### 5) [Polymorphism](/5.%20Polymorphism/PolyDemo.java)
+##### 5) [FTP](/5.%20FTP)
 
-##### 6) [String Tokenizer](/6.%20String%20Tokenizer/StrTokenizerDemo.java)
+##### 6) [Leaky Bucket](/6.%20Leaky%20Bucket)
