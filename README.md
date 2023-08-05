@@ -5,7 +5,7 @@ Based on 2019 KTU Scheme
 
 ##### 1) [TCP (Reverse String)](/1.%20TCP%20(Reverse%20String))
 ## Usage
-<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/d97ea128-0f77-4f3b-8860-fc0210e7eafd)" width="400" height="200">
+<img src="[https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/6aaf2431-1e32-40d1-98a1-89744014a1fc)" width="400" height="200">
 
 
 
