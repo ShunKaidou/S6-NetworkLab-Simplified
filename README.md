@@ -13,7 +13,7 @@ Based on 2019 KTU Scheme
 
 
 
-### 3) Link State Routing
+### 3) [Link State Routing](/3.%20Link%20State%20Routing/LinkState.c)
 <br>
 
 
