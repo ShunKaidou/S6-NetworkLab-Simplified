@@ -4,7 +4,7 @@ Based on 2019 KTU Scheme
 # Contents
 
 ### 1) [TCP (Reverse String)](/1.%20TCP%20(Reverse%20String))
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Server](/1.%20TCP%20(Reverse%20String)/TCPServer.c)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Server](/1.%20TCP%20(Reverse%20String)/TCPServer.c)
 #### Usage
 <img src="https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/9b771d2d-b8ee-4b25-af1f-210426c1666d" width="300" height="115">
 
