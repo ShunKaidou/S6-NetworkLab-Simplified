@@ -35,4 +35,4 @@ Based on 2019 KTU Scheme
 
 ### 6) [Leaky Bucket](/6.%20Leaky%20Bucket/Leaky%20Bucket.c)
 
-### 7) [Go Back N]
+### 7) [Go Back N](/7.%20Go%20Back%20N/GoBackN.c)
