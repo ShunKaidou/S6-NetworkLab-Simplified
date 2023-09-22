@@ -2,7 +2,7 @@
 Based on 2019 KTU Scheme
 
 # TCP Flow
-<img src="(https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/dd70ab66-701b-45a8-aa5f-51c87f4e59d3" width="500">
+<img src="https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/dd70ab66-701b-45a8-aa5f-51c87f4e59d3" width="500">
 
 # UDP Flow
 <img src="https://github.com/ShunKaidou/S6-NetworkLab-Simplified/assets/81925773/c759c1d5-b3f4-48d6-b1b6-0a284728c85d" width="500">
